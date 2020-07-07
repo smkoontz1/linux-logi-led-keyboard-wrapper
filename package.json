@@ -1,0 +1,17 @@
+{
+  "name": "linux-logi-led-keyboard-wrapper",
+  "version": "0.1.0",
+  "description": "Wraps the g810-led linux package.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Steven Koontz",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
